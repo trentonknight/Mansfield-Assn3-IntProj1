@@ -1,0 +1,51 @@
+TMansfield-Assn3-IntProj1
+v7
+r0
+t307843593.714994
+cCheck dependencies
+cCompileC build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj1
+t2
+s0
+
+N/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/Mansfield-Assn3-IntProj1.LinkFileList
+c000000004CA91A880000000000000090
+t1286150792
+s144
+
+N/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp
+c000000004CA91A8800000000000001EC
+t1286150792
+s492
+i<iostream>
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9EC56300000000000000EE
+t1285473635
+s238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307843592#307843592#0(0"0(0#1#0"8319064599897596928#0"0#
+
+CCompileC build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307843592.873378
+e307843593.714888
+r0
+xCompileC
+xbuild/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o
+x/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp307843592#307843593#0(336"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp: In function 'int main()':/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp:14: error: invalid initialization of non-const reference of type 'int&' from a temporary of type 'int'/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp:10: error: in passing argument 1 of 'void driver(int&)'2(4@91"Invalid initialization of non-const reference of type 'int&' from a temporary of type 'int'307843593#77#153#0(6@49"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp307843592#14#0#14#0#0"0(4@44"In passing argument 1 of 'void driver(int&)'307843593#230#106#0(6@49"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp307843592#10#0#10#0#0"0(0#0#49"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp7307484516344482816#1619"    cd /Developer/CODE/Mansfield-Assn3-IntProj1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-generated-files.hmap -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-own-target-headers.hmap -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-all-target-headers.hmap -iquote /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-project-headers.hmap -F/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/include -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/DerivedSources/x86_64 -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/DerivedSources -c /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp -o /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o1#
+
+CLd /Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj1 normal x86_64
+r0
+
