@@ -70,6 +70,11 @@
 			5D9B5B45125A1C70007BD66E /* PBXTextBookmark */ = 5D9B5B45125A1C70007BD66E /* PBXTextBookmark */;
 			5D9B5B46125A1C70007BD66E /* PBXTextBookmark */ = 5D9B5B46125A1C70007BD66E /* PBXTextBookmark */;
 			5D9B5B47125A1C70007BD66E /* PBXTextBookmark */ = 5D9B5B47125A1C70007BD66E /* PBXTextBookmark */;
+			5D9B5B54125A1F7C007BD66E /* PBXTextBookmark */ = 5D9B5B54125A1F7C007BD66E /* PBXTextBookmark */;
+			5D9B5B55125A1F7C007BD66E /* PBXTextBookmark */ = 5D9B5B55125A1F7C007BD66E /* PBXTextBookmark */;
+			5D9B5B74125A29C6007BD66E /* PBXTextBookmark */ = 5D9B5B74125A29C6007BD66E /* PBXTextBookmark */;
+			5D9B5B75125A29C6007BD66E /* PBXTextBookmark */ = 5D9B5B75125A29C6007BD66E /* PBXTextBookmark */;
+			5D9B5B76125A29C6007BD66E /* PBXTextBookmark */ = 5D9B5B76125A29C6007BD66E /* PBXTextBookmark */;
 		};
 		sourceControlManager = 5D9B598E12594DE5007BD66E /* Source Control */;
 		userBuildSettings = {
@@ -77,9 +82,9 @@
 	};
 	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {999, 1001}}";
-			sepNavSelRange = "{1705, 0}";
-			sepNavVisRange = "{76, 1938}";
+			sepNavIntBoundsRect = "{{0, 0}, {925, 1586}}";
+			sepNavSelRange = "{2856, 0}";
+			sepNavVisRange = "{0, 2466}";
 		};
 	};
 	5D9B598112594DD3007BD66E /* Mansfield-Assn3-IntProj1 */ = {
@@ -123,7 +128,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 1";
 		rLen = 0;
-		rLoc = 0;
+		rLoc = 454;
 		rType = 0;
 		vrLen = 143;
 		vrLoc = 0;
@@ -147,7 +152,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 33";
 		rLen = 0;
-		rLoc = 1071;
+		rLoc = 2949;
 		rType = 0;
 		vrLen = 537;
 		vrLoc = 0;
@@ -157,7 +162,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 42";
 		rLen = 0;
-		rLoc = 1869;
+		rLoc = 4807;
 		rType = 0;
 		vrLen = 751;
 		vrLoc = 0;
@@ -167,7 +172,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 35";
 		rLen = 0;
-		rLoc = 1061;
+		rLoc = 2939;
 		rType = 0;
 		vrLen = 770;
 		vrLoc = 0;
@@ -177,7 +182,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 35";
 		rLen = 0;
-		rLoc = 1044;
+		rLoc = 2920;
 		rType = 0;
 		vrLen = 771;
 		vrLoc = 0;
@@ -187,7 +192,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 37";
 		rLen = 0;
-		rLoc = 1071;
+		rLoc = 2949;
 		rType = 0;
 		vrLen = 924;
 		vrLoc = 0;
@@ -197,7 +202,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 46";
 		rLen = 0;
-		rLoc = 1758;
+		rLoc = 4715;
 		rType = 0;
 		vrLen = 967;
 		vrLoc = 0;
@@ -207,7 +212,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 55";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1048;
 		vrLoc = 0;
@@ -217,7 +222,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 54";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1054;
 		vrLoc = 0;
@@ -227,7 +232,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 42";
 		rLen = 0;
-		rLoc = 1071;
+		rLoc = 2949;
 		rType = 0;
 		vrLen = 1081;
 		vrLoc = 0;
@@ -237,7 +242,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 54";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1081;
 		vrLoc = 0;
@@ -247,7 +252,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 55";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1041;
 		vrLoc = 0;
@@ -257,7 +262,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 53";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1041;
 		vrLoc = 0;
@@ -267,7 +272,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 53";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1041;
 		vrLoc = 0;
@@ -277,7 +282,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 55";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1025;
 		vrLoc = 0;
@@ -287,7 +292,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 55";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1025;
 		vrLoc = 0;
@@ -297,7 +302,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 54";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1035;
 		vrLoc = 0;
@@ -307,7 +312,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 56";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1087;
 		vrLoc = 0;
@@ -317,7 +322,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 40";
 		rLen = 0;
-		rLoc = 1071;
+		rLoc = 2949;
 		rType = 0;
 		vrLen = 1106;
 		vrLoc = 0;
@@ -327,7 +332,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 54";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1037;
 		vrLoc = 0;
@@ -337,7 +342,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 54";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1042;
 		vrLoc = 0;
@@ -347,7 +352,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 56";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 4814;
 		rType = 0;
 		vrLen = 1067;
 		vrLoc = 0;
@@ -357,8 +362,8 @@
 		comments = "Too few arguments to function 'void subtract(int&, int&, int&, int&, int&, int&, int&)'";
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 76;
+		rLen = 0;
+		rLoc = 6;
 		rType = 1;
 	};
 	5D9B5ABF12598034007BD66E /* PBXTextBookmark */ = {
@@ -366,7 +371,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 67";
 		rLen = 0;
-		rLoc = 2034;
+		rLoc = 4815;
 		rType = 0;
 		vrLen = 420;
 		vrLoc = 1071;
@@ -376,7 +381,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 46";
 		rLen = 0;
-		rLoc = 1071;
+		rLoc = 2949;
 		rType = 0;
 		vrLen = 1320;
 		vrLoc = 0;
@@ -386,7 +391,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 72";
 		rLen = 0;
-		rLoc = 2034;
+		rLoc = 4815;
 		rType = 0;
 		vrLen = 1397;
 		vrLoc = 332;
@@ -396,8 +401,8 @@
 		comments = "Too few arguments to function 'void subtract(int&, int&, int&, int&, int&, int&, int&)'";
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 76;
+		rLen = 0;
+		rLoc = 6;
 		rType = 1;
 	};
 	5D9B5ADD125985C3007BD66E /* PBXTextBookmark */ = {
@@ -405,7 +410,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 66";
 		rLen = 0;
-		rLoc = 2034;
+		rLoc = 4815;
 		rType = 0;
 		vrLen = 287;
 		vrLoc = 1064;
@@ -415,7 +420,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 58";
 		rLen = 0;
-		rLoc = 2034;
+		rLoc = 4815;
 		rType = 0;
 		vrLen = 588;
 		vrLoc = 585;
@@ -425,7 +430,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 77";
 		rLen = 0;
-		rLoc = 2034;
+		rLoc = 4815;
 		rType = 0;
 		vrLen = 607;
 		vrLoc = 463;
@@ -435,7 +440,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 42";
 		rLen = 0;
-		rLoc = 895;
+		rLoc = 2725;
 		rType = 0;
 		vrLen = 1513;
 		vrLoc = 196;
@@ -445,10 +450,60 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 59";
 		rLen = 0;
-		rLoc = 1705;
+		rLoc = 4610;
 		rType = 0;
 		vrLen = 1938;
 		vrLoc = 76;
+	};
+	5D9B5B54125A1F7C007BD66E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 76";
+		rLen = 0;
+		rLoc = 4815;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 72;
+	};
+	5D9B5B55125A1F7C007BD66E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 7";
+		rLen = 0;
+		rLoc = 381;
+		rType = 0;
+		vrLen = 2100;
+		vrLoc = 0;
+	};
+	5D9B5B74125A29C6007BD66E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 122";
+		rLen = 0;
+		rLoc = 4815;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 72;
+	};
+	5D9B5B75125A29C6007BD66E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 95";
+		rLen = 0;
+		rLoc = 4108;
+		rType = 0;
+		vrLen = 2835;
+		vrLoc = 1420;
+	};
+	5D9B5B76125A29C6007BD66E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 75";
+		rLen = 0;
+		rLoc = 2856;
+		rType = 0;
+		vrLen = 2466;
+		vrLoc = 0;
 	};
 	8DD76F620486A84900D96B5E /* Mansfield-Assn3-IntProj1 */ = {
 		activeExec = 0;
