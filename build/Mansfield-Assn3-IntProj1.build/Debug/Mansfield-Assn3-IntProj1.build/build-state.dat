@@ -1,14 +1,14 @@
 TMansfield-Assn3-IntProj1
 v7
 r0
-t307850938.929783
+t307854617.798940
 cCheck dependencies
 cCompileC build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
 cLd /Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj1 normal x86_64
 
 N/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj1
-t1286158138
-s11504
+t1286161817
+s15760
 
 N/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/Mansfield-Assn3-IntProj1.LinkFileList
 c000000004CA91A880000000000000090
@@ -16,13 +16,13 @@ t1286150792
 s144
 
 N/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o
-t1286158068
-s72808
+t1286161817
+s73676
 
 N/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp
-c000000004CA9373A0000000000000451
-t1286158138
-s1105
+c000000004CA945990000000000000660
+t1286161817
+s1632
 i<iostream>
 
 N/Developer/SDKs/MacOSX10.6.sdk
@@ -32,11 +32,11 @@ s238
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies307850938#307850938#0(0"0(0#1#0"8614606496#0"0#
+lSLF07#2@18"Check dependencies307854617#307854617#0(0"0(0#1#0"8614527584#0"0#
 
 CCompileC build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s307850938.872220
-e307850938.873554
+s307854617.391744
+e307854617.758501
 r1
 xCompileC
 xbuild/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o
@@ -45,15 +45,15 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp307850938#307850938#0(186"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp: In function 'int buildLIST()':/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp:33: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function307850938#82#104#0(6@49"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp307850938#33#0#33#0#40"control reaches end of non-void function0(0#0#49"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp8614440768#1619"    cd /Developer/CODE/Mansfield-Assn3-IntProj1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-generated-files.hmap -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-own-target-headers.hmap -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-all-target-headers.hmap -iquote /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-project-headers.hmap -F/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/include -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/DerivedSources/x86_64 -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/DerivedSources -c /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp -o /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o0#
+lSLF07#2@57"Compile /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp307854617#307854617#0(186"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp: In function 'int buildLIST()':/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp:34: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function307854617#82#104#0(6@49"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp307854617#34#0#34#0#40"control reaches end of non-void function0(0#0#49"/Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp8614387776#1619"    cd /Developer/CODE/Mansfield-Assn3-IntProj1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-generated-files.hmap -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-own-target-headers.hmap -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-all-target-headers.hmap -iquote /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Mansfield-Assn3-IntProj1-project-headers.hmap -F/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/include -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/DerivedSources/x86_64 -I/Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/DerivedSources -c /Developer/CODE/Mansfield-Assn3-IntProj1/main.cpp -o /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/main.o0#
 
 CLd /Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj1 normal x86_64
-s307850938.873621
-e307850938.929731
+s307854617.758596
+e307854617.798878
 r1
 xLd
 x/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj1
 xnormal
 xx86_64
-lSLF07#2@82"Link /Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj1307850938#307850938#0(0"0(0#0#0"8614289632#576"    cd /Developer/CODE/Mansfield-Assn3-IntProj1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug -F/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug -filelist /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/Mansfield-Assn3-IntProj1.LinkFileList -mmacosx-version-min=10.6 -o /Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj10#
+lSLF07#2@82"Link /Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj1307854617#307854617#0(0"0(0#0#0"8613647456#576"    cd /Developer/CODE/Mansfield-Assn3-IntProj1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug -F/Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug -filelist /Developer/CODE/Mansfield-Assn3-IntProj1/build/Mansfield-Assn3-IntProj1.build/Debug/Mansfield-Assn3-IntProj1.build/Objects-normal/x86_64/Mansfield-Assn3-IntProj1.LinkFileList -mmacosx-version-min=10.6 -o /Developer/CODE/Mansfield-Assn3-IntProj1/build/Debug/Mansfield-Assn3-IntProj10#
 
