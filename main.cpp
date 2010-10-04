@@ -9,10 +9,8 @@ using namespace std;
 
 int buildLIST();
 void driver(int& num);
-void numLENGTH(int& num,int& length);
+void numLENGTH(int& num,int& length,int& place,int& addNUMBER_TOGETHER,int& original_NUMBER,int& last_NUMBER,int& current_NUMBER,int& power);
 int powerOF(int& ten,int& shrink,int& length);
-void subtract(int& num,int& ten,int& shrink,int& length,int& copyLength,int& endLength);
-void add(int& addNUMBERS,int& num);
 
 int main () {
 	int num = 0;
@@ -35,48 +33,44 @@ int buildLIST(){
 }
 void driver(int& num){
 	int length = 0;
-	int ten = 10;
-	int shrink = 2;
-	int copyLength = 0;
-	int endLength = 0;
-	int addNUMBERS = 0;
-	
-	numLENGTH(num, length);
-	copyLength = length;
-	endLength = length;
-	addNUMBERS = num;
+	int place = 10;
+	int power = 1;
+	int addNUMBER_TOGETHER = 0;
+	int original_NUMBER = 0;
+	int last_NUMBER = 0;
+	int current_NUMBER = 0;
+	original_NUMBER = num;
+	numLENGTH(num, length, place, addNUMBER_TOGETHER,original_NUMBER,last_NUMBER,current_NUMBER,power);
 	cout << "Number is length: " << length << " to the 10th power" << endl;
-	subtract(num,ten,shrink,length,copyLength,endLength);		
+	
 }
-void numLENGTH(int& num,int& length){	
+void numLENGTH(int& num,int& length,int& place,int& addNUMBER_TOGETHER,int& original_NUMBER,int& last_NUMBER,int& current_NUMBER,int& power){
+	
 	if(num != 0){
 		num = num/10;
-		cout << "num: " << num << endl;
+		cout << "num place: " << num * place << endl;
+		current_NUMBER = original_NUMBER - (num * place);
+		current_NUMBER = current_NUMBER - last_NUMBER;
+		cout << "num subtracted from last num: " << current_NUMBER << endl;
+		last_NUMBER = last_NUMBER + current_NUMBER;
+		current_NUMBER = last_NUMBER/power;
+		cout << "cur: " << current_NUMBER << endl;
+		addNUMBER_TOGETHER = addNUMBER_TOGETHER + current_NUMBER;
+		cout << "Total Numbers." << addNUMBER_TOGETHER << endl;
+		power = power * 10;
+		place = place * 10;
 		length++;
-		numLENGTH(num,length);
+		numLENGTH(num,length,place,addNUMBER_TOGETHER,original_NUMBER,last_NUMBER,current_NUMBER,power);
 	}
 }
-int powerOF(int& ten, int& shrink, int& length){
-   if(length != shrink){		
+
+int powerOF(int& ten, int& shrink, int& length){	
+	if(length != shrink){
 		ten = (ten * 10);
-	    length--;
+		length--;
 		powerOF(ten,shrink,length);
-	}
+		
+	}	
 	return ten;
 }
-void subtract(int& num,int& ten,int& shrink,int& length,int& copyLength,int& endLength){
-		
-	if(endLength != 1){
-	num = powerOF(ten,shrink,length);
-	cout << num << endl;
-	add(addNUMBERS,num);
-	length = copyLength;
-	ten = 10;
-	shrink++;
-	endLength--;
-	subtract(num,ten,shrink,length,copyLength,endLength);
-	}		
-}
-void add(int& addNUMBERS,int& num){
-	
-}
+
